@@ -156,4 +156,12 @@ img {
         margin-bottom: 4rem;
     }
 
+    /*RESPONSIVE WHY US*/
+
+    .why-us .col{
+
+        width: 100vw;
+        margin-bottom: 4rem;
+    }
+
 }
