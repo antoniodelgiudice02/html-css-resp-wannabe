@@ -136,6 +136,8 @@ img {
         width: 100vw;
     }
 
+    /*RESPONSIVE LESSONS*/
+
     .lessons .col{
         width: 100vw;
         padding: 0 2.5rem;
@@ -145,6 +147,13 @@ img {
     .row {
         flex-direction: column;
         align-items: center;
+    }
+
+    /*RESPONSIVE STEPS*/
+
+    .steps .col {
+        width: 100vw;
+        margin-bottom: 4rem;
     }
 
 }
