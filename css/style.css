@@ -165,3 +165,34 @@ img {
     }
 
 }
+
+@media screen and (max-width: 770px){
+
+    .container{
+        width: 100vw;
+    }
+
+    /*RESPONSIVE LESSONS*/
+
+    .lessons .col{
+        width: 100vw;
+        padding: 0 2.5rem;
+        margin-bottom: 4rem;
+    }
+
+    /*RESPONSIVE STEPS*/
+
+    .steps .col {
+        width: 100vw;
+        margin-bottom: 4rem;
+    }
+
+    /*RESPONSIVE WHY US*/
+
+    .why-us .col{
+
+        width: 100vw;
+        margin-bottom: 4rem;
+    }
+
+}
